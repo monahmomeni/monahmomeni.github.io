@@ -1,10 +1,10 @@
 ---
 layout	       	: archive
-permalink			  : /data-science/
-title						: "Data Science Posts by Tags"
+permalink		: /data-science/
+title			: "Data Science Posts by Tags"
 author_profile	: true
-header			    :
-  image			    : "/images/archive.jpg"
+header			:
+  image			: "/images/archive.jpg"
 ---
 
 
