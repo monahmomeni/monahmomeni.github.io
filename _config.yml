@@ -94,10 +94,12 @@ analytics:
 # Site Author
 author:
   name             : "Mona Hajimomeni"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Machine learning specialist with a passion for real-life data problems"
+  avatar           : "/images/me.jpg" 
+  bio              : "Data Science Portfolio"
   location         : "Montreal, QC"
   email            :
+  github           : "monahmomeni"
+  linkedin         : "mona-hajimomeni-24a2b54b"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
